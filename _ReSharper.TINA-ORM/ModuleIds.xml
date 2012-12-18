@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="1DEB2E26-666E-4275-B547-C11C2A2C0F5E" ModuleId="TINA-ORM" />
+  <Module PersistentId="9593C44D-34EC-4BA8-9B2C-4D7EF0CBE924" ModuleId="TestAplication" />
+  <Module PersistentId="24D1F9A6-235E-43C8-A608-BEBDC8A20CAC" ModuleId="Tests" />
+</Modules>
