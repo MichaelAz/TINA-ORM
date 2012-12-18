@@ -1,0 +1,5 @@
+C:\Users\zeev\Documents\Visual Studio 2010\Projects\TINA-ORM\TINA-ORM\bin\Release\TINA-ORM.dll
+C:\Users\zeev\Documents\Visual Studio 2010\Projects\TINA-ORM\TINA-ORM\bin\Release\TINA-ORM.pdb
+C:\Users\zeev\Documents\Visual Studio 2010\Projects\TINA-ORM\TINA-ORM\obj\Release\ResolveAssemblyReference.cache
+C:\Users\zeev\Documents\Visual Studio 2010\Projects\TINA-ORM\TINA-ORM\obj\Release\TINA-ORM.dll
+C:\Users\zeev\Documents\Visual Studio 2010\Projects\TINA-ORM\TINA-ORM\obj\Release\TINA-ORM.pdb
