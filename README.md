@@ -40,7 +40,7 @@ Tina works with POCOs (Plain Old CLR Objects). That means no custom attributes, 
     Tina tina = new Tina(connectionString);
     
     var awesomePossums = from awesomeInstance in tina.Query<MyAwesomeClass>
-                         where awesomeInstance.Species == "Didelphimorphia" // That's Latin for possum
+                         where awesomeInstance.Species == "Didelphimorphia"
                          select awesomeInstance;
 
     foreach (var possum in awesomePossums)
@@ -59,7 +59,7 @@ Tina works with POCOs (Plain Old CLR Objects). That means no custom attributes, 
     Tina tina = new Tina(connectionString);
     
     var awesomePossums = from awesomeInstance in tina.Query<MyAwesomeClass>
-                         where awesomeInstance.Species == "Didelphimorphia" // That's Latin for possum
+                         where awesomeInstance.Species == "Didelphimorphia"
                          select awesomeInstance;
 
     foreach (var possum in awesomePossums)
