@@ -1,0 +1,5 @@
+c:\users\zeev\documents\visual studio 2010\Projects\TINA-ORM\TINA-ORM\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+c:\users\zeev\documents\visual studio 2010\Projects\TINA-ORM\TINA-ORM\bin\AutoTest.Net\_tmpIntermediateAT\TINA-ORM.dll
+c:\users\zeev\documents\visual studio 2010\Projects\TINA-ORM\TINA-ORM\bin\AutoTest.Net\_tmpIntermediateAT\TINA-ORM.pdb
+c:\users\zeev\documents\visual studio 2010\Projects\TINA-ORM\TINA-ORM\bin\AutoTest.Net\TINA-ORM.dll
+c:\users\zeev\documents\visual studio 2010\Projects\TINA-ORM\TINA-ORM\bin\AutoTest.Net\TINA-ORM.pdb

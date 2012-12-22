@@ -1,0 +1,10 @@
+c:\users\zeev\documents\visual studio 2010\Projects\TINA-ORM\TINA-ORM\obj\Debug\ResolveAssemblyReference.cache
+c:\users\zeev\documents\visual studio 2010\Projects\TINA-ORM\TINA-ORM\bin\Debug\TINA-ORM.dll
+c:\users\zeev\documents\visual studio 2010\Projects\TINA-ORM\TINA-ORM\bin\Debug\TINA-ORM.pdb
+c:\users\zeev\documents\visual studio 2010\Projects\TINA-ORM\TINA-ORM\obj\Debug\TINA-ORM.dll
+c:\users\zeev\documents\visual studio 2010\Projects\TINA-ORM\TINA-ORM\obj\Debug\TINA-ORM.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\TINA-ORM\bin\Debug\TINA-ORM.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\TINA-ORM\bin\Debug\TINA-ORM.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\TINA-ORM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zeev\Documents\GitHub\TINA-ORM\TINA-ORM\obj\Debug\TINA-ORM.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\TINA-ORM\obj\Debug\TINA-ORM.pdb
