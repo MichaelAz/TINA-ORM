@@ -1,6 +1,6 @@
 #TINA-ORM
 
-TINA-ORM (This Is Not An ORM) is a NoSQL-ish interface to Microsoft SQL server inspired by RavenDB.
+TINA-ORM (This Is Not An ORM) is a NoSQL-ish interface to Microsoft SQL server inspired by RavenDB. [Get it on NuGet](https://nuget.org/packages/TINA-ORM).
 
 Tina works with POCOs (Plain Old CLR Objects). That means no custom attributes, no enforced conventions and zero ceremony. Batteries and a coupon for a free hug included.
 
