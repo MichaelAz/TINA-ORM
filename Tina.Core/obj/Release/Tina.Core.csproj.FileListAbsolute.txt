@@ -1,0 +1,5 @@
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Core\bin\Release\TINA-ORM.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Core\bin\Release\TINA-ORM.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Core\obj\Release\ResolveAssemblyReference.cache
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Core\obj\Release\TINA-ORM.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Core\obj\Release\TINA-ORM.pdb

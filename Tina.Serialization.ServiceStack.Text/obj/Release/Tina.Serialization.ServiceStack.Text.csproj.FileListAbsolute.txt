@@ -1,0 +1,9 @@
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.ServiceStack.Text\bin\Release\Tina.Serialization.ServiceStack.Text.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.ServiceStack.Text\bin\Release\Tina.Serialization.ServiceStack.Text.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.ServiceStack.Text\bin\Release\ServiceStack.Text.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.ServiceStack.Text\bin\Release\TINA-ORM.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.ServiceStack.Text\bin\Release\TINA-ORM.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.ServiceStack.Text\bin\Release\ServiceStack.Text.xml
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.ServiceStack.Text\obj\Release\ResolveAssemblyReference.cache
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.ServiceStack.Text\obj\Release\Tina.Serialization.ServiceStack.Text.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.ServiceStack.Text\obj\Release\Tina.Serialization.ServiceStack.Text.pdb

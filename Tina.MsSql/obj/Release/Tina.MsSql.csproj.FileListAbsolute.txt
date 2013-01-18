@@ -1,0 +1,7 @@
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.MsSql\bin\Release\Tina.MsSql.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.MsSql\bin\Release\Tina.MsSql.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.MsSql\bin\Release\TINA-ORM.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.MsSql\bin\Release\TINA-ORM.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.MsSql\obj\Release\ResolveAssemblyReference.cache
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.MsSql\obj\Release\Tina.MsSql.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.MsSql\obj\Release\Tina.MsSql.pdb
