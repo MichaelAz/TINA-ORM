@@ -77,4 +77,4 @@ Tina works with POCOs (Plain Old CLR Objects). That means no custom attributes, 
 Tina supports other databases (with great extensibility options), custom serializers  and other cool stuff! Check the wiki for more cool stuff!
 
 ##Upcoming Features
-Upcoming features include support for PostgreSQL, Oracle and DB2, support for more serialization formats (YAML, BSON, MessagePack and more!) and an asynchronus API.
+Upcoming features include support for PostgreSQL, Oracle and DB2, support for more serialization formats (YAML, BSON, MessagePack and more!), an asynchronus API and persisting configuration in the database.
