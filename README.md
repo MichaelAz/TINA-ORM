@@ -1,6 +1,6 @@
-#TINA-ORM
+﻿#TINA-ORM
 
-TINA-ORM (This Is Not An ORM) is a NoSQL-ish interface to Microsoft SQL server inspired by RavenDB. [Get it on NuGet](https://nuget.org/packages/TINA-ORM).
+TINA-ORM (This Is Not An ORM) is a NoSQL-ish interface to SQL databases (Including Microsoft SQL Server and MySQL) inspired by RavenDB. [Get it on NuGet](https://nuget.org/packages/TINA-ORM).
 
 Tina works with POCOs (Plain Old CLR Objects). That means no custom attributes, no enforced conventions and zero ceremony. Batteries and a coupon for a free hug included.
 
@@ -15,8 +15,10 @@ Tina works with POCOs (Plain Old CLR Objects). That means no custom attributes, 
 
     // Initialize a new instance of Tina
     string connectionString = "Data Source=..."
-    Tina tina = new Tina(connectionString);
-    
+
+    // Tina also supports the more traditional new statement. Check the wiki for more info.
+    Tina tina = Tina.ConnectsTo<MsSql>(connectionString);     
+
     // Store that variable, just like that.
     tina.Store(myAwesomeVariable);
 ```
@@ -25,7 +27,7 @@ Tina works with POCOs (Plain Old CLR Objects). That means no custom attributes, 
 ```C#
 
     string connectionString = "Data Source=..."
-    Tina tina = new Tina(connectionString);
+    Tina tina = Tina.ConnectsTo<MsSql>(connectionString);
     
     // LINQ - all the cool kids do it
     var awesomePossums = from awesomeInstance in tina.Query<MyAwesomeClass>
@@ -37,7 +39,7 @@ Tina works with POCOs (Plain Old CLR Objects). That means no custom attributes, 
 ```C#
 
     string connectionString = "Data Source=..."
-    Tina tina = new Tina(connectionString);
+    Tina tina = Tina.ConnectsTo<MsSql>(connectionString);     
     
     var awesomePossums = from awesomeInstance in tina.Query<MyAwesomeClass>
                          where awesomeInstance.Order == "Didelphimorphia"
@@ -56,7 +58,7 @@ Tina works with POCOs (Plain Old CLR Objects). That means no custom attributes, 
 ```C#
 
     string connectionString = "Data Source=..."
-    Tina tina = new Tina(connectionString);
+    Tina tina = Tina.ConnectsTo<MsSql>(connectionString);
     
     var awesomePossums = from awesomeInstance in tina.Query<MyAwesomeClass>
                          where awesomeInstance.Order == "Didelphimorphia"
@@ -71,8 +73,8 @@ Tina works with POCOs (Plain Old CLR Objects). That means no custom attributes, 
     }
 ```
 
-##Love you uncoditionaly
-We <3 our users.
+##And more!
+Tina supports other databases (with great extensibility options), custom serializers  and other cool stuff! Check the wiki for more cool stuff!
 
 ##Upcoming Features
-Upcoming features include support for databases other then Microsoft SQL Server, support for custom serializers (other than the built in `JavaScriptSerializer` class) and an asynchronus API.
+Upcoming features include support for PostgreSQL, Oracle and DB2, support for more serialization formats (YAML, BSON, MessagePack and more!) and an asynchronus API.
