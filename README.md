@@ -1,6 +1,6 @@
 ﻿#TINA-ORM
 
-TINA-ORM (This Is Not An ORM) is a NoSQL-ish interface to SQL databases (Including Microsoft SQL Server and MySQL) inspired by RavenDB. [Get it on NuGet](https://nuget.org/packages/TINA-ORM).
+TINA-ORM (This Is Not An ORM) is a NoSQL-ish interface to SQL databases (Currently supporting Microsoft SQL Server, MySQL and PostgreSQL) inspired by RavenDB. [Get it on NuGet](https://nuget.org/packages/TINA-ORM).
 
 Tina works with POCOs (Plain Old CLR Objects). That means no custom attributes, no enforced conventions and zero ceremony. Batteries and a coupon for a free hug included.
 
@@ -75,6 +75,3 @@ Tina works with POCOs (Plain Old CLR Objects). That means no custom attributes, 
 
 ##And more!
 Tina supports other databases (with great extensibility options), custom serializers  and other cool stuff! Check the wiki for more cool stuff!
-
-##Upcoming Features
-Upcoming features include support for PostgreSQL, Oracle and DB2, support for more serialization formats (YAML, BSON, MessagePack and more!), an asynchronus API and persisting configuration in the database.
