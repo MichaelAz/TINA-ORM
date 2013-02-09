@@ -97,6 +97,7 @@ namespace TinaORM.Core
 
             using (var connection = config.Connection)
             {
+                // Note: Replace * with column names
                 string selectQuery = "SELECT * FROM Tina WHERE Type=@Type";
 
                 var selectCommand = connection.CreateCommand(selectQuery);

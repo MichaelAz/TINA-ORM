@@ -1,0 +1,13 @@
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.PostgreSQL\bin\Release\Tina.PostgreSQL.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.PostgreSQL\bin\Release\Tina.PostgreSQL.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.PostgreSQL\bin\Release\Mono.Security.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.PostgreSQL\bin\Release\Npgsql.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.PostgreSQL\bin\Release\policy.2.0.Npgsql.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.PostgreSQL\bin\Release\TINA-ORM.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.PostgreSQL\bin\Release\TINA-ORM.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.PostgreSQL\bin\Release\Npgsql.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.PostgreSQL\bin\Release\Npgsql.xml
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.PostgreSQL\bin\Release\policy.2.0.Npgsql.config
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.PostgreSQL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.PostgreSQL\obj\Release\Tina.PostgreSQL.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.PostgreSQL\obj\Release\Tina.PostgreSQL.pdb
