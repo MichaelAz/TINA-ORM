@@ -1,22 +1,14 @@
-﻿using System.Data.Common;
-
-namespace TinaORM.Core
+﻿namespace TinaORM.Core
 {
     using System;
     using System.Collections.Generic;
     using System.Linq;
 
     using System.Data;
-    using System.Data.Sql;
-    using System.Data.SqlClient;
-
-    using System.Web;
-    using System.Web.Script;
-    using System.Web.Script.Serialization;
 
     /// <summary>
     /// TINA-ORM (This Is Not An ORM) is a NoSQL-ish interface
-    ///  to Microsoft SQL server inspired by RavenDB.
+    ///  to SQL databases inspired by RavenDB.
     /// </summary>
     public class Tina
     {
@@ -38,6 +30,12 @@ namespace TinaORM.Core
 
         #region Fluent
         
+        /// <summary>
+        /// Provides a fluent interface for creating TINA-ORM connections
+        /// </summary>
+        /// <typeparam name="T">The type of database to connect to</typeparam>
+        /// <param name="connectionString">The connection string</param>
+        /// <returns>A TINA-ORM connection</returns>
         public static Tina ConnectsTo<T>(string connectionString) where T:TinaConfig, new()
         {
             TinaConfig config = new T();
@@ -46,6 +44,13 @@ namespace TinaORM.Core
             return new Tina(config);
         }
 
+        /// <summary>
+        /// Provides a fluent interface for creating TINA-ORM connections
+        /// </summary>
+        /// <typeparam name="T">The type of database to connect to</typeparam>
+        /// <param name="connectionString">The connection string</param>
+        /// <param name="serializer">The serializer to use</param>
+        /// <returns>A TINA-ORM connection</returns>
         public static Tina ConnectsTo<T>(string connectionString, ISerializer serializer) where T : TinaConfig, new()
         {
             TinaConfig config = new T();
@@ -98,7 +103,7 @@ namespace TinaORM.Core
             using (var connection = config.Connection)
             {
                 // Note: Replace * with column names
-                string selectQuery = "SELECT * FROM Tina WHERE Type=@Type";
+                string selectQuery = "SELECT id, Type, Contents FROM Tina WHERE Type=@Type";
 
                 var selectCommand = connection.CreateCommand(selectQuery);
                 selectCommand.Parameters.Add(selectCommand.CreateParameter(

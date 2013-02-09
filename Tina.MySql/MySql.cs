@@ -7,36 +7,66 @@ using System.Data;
 using System.Data.Common;
 using MySql.Data.MySqlClient;
 
-using System.Web.Script.Serialization;
-
 using TinaORM.Core;
 
 
 namespace TinaORM.MySql
 {
+    // NOTE - Tested with MySQL 5.5
+
+    /// <summary>
+    /// A TINA-ORM data adapter that allows Tina to conenct to MySQL databases
+    /// </summary>
     public sealed class MySql : TinaConfig
     {
+        /// <summary>
+        /// Gets or sets the connection string for a connection with this adapter
+        /// </summary>
         public override string ConnectionString { get; set; }
 
+        /// <summary>
+        /// Gets a connection that uses the connection string supplied to this adapter
+        /// </summary>
         public override DbConnection Connection
         {
             get { return new MySqlConnection(ConnectionString); }
         }
 
+        /// <summary>
+        /// Gets or sets the serializer to use for any connections with this adapter
+        /// </summary>
         public override ISerializer Serializer { get; set; }
 
+        /// <summary>
+        /// Initializes a new isntance of the MySql class, wihtout a connection string
+        /// and with the default JavaScriptSerializer
+        /// </summary>
         public MySql()
         {
             ConnectionString = String.Empty;
             Serializer =  new JavascriptSerializer();
         }
 
+        /// <summary>
+        /// Initializes a new isntance of the MySql class, with a connection string
+        /// and with the default JavaScriptSerializer 
+        /// </summary>
+        /// <param name="connectionString">The connection string to use when making
+        /// connections with this adapter</param>
         public MySql(string connectionString)
         {
             ConnectionString = connectionString;
             Serializer = new JavascriptSerializer();
         }
 
+        /// <summary>
+        /// Creates a new isntance of the MySql adapter, with a connection string
+        /// and with a given data serializer
+        /// </summary>
+        /// <param name="connectionString">The connection string to use when making
+        /// connections with this adapter</param>
+        /// <param name="serializer">A serializer to use with connections made with
+        /// this adapter</param>
         public MySql(string connectionString, ISerializer serializer)
         {
             ConnectionString = connectionString;
