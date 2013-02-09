@@ -82,9 +82,9 @@ namespace TinaORM.MySql
                 @"CREATE TABLE IF NOT EXISTS Tina
                                         (
                                             id INT AUTO_INCREMENT UNIQUE PRIMARY KEY, 
-                                            Type VARCHAR(4000) CHARSET utf8, 
+                                            Type VARCHAR(4000) CHARSET utf8,
                                             Contents VARCHAR(4000) CHARSET utf8
-                                        );";
+                                        )";
 
             using (var conn = Connection)
             {

@@ -1,0 +1,9 @@
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.Json.NET\bin\Debug\Tina.Serialization.Json.NET.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.Json.NET\bin\Debug\Tina.Serialization.Json.NET.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.Json.NET\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.Json.NET\bin\Debug\TINA-ORM.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.Json.NET\bin\Debug\TINA-ORM.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.Json.NET\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.Json.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.Json.NET\obj\Debug\Tina.Serialization.Json.NET.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.Json.NET\obj\Debug\Tina.Serialization.Json.NET.pdb

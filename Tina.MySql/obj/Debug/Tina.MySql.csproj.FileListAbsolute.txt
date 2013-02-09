@@ -1,0 +1,8 @@
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.MySql\bin\Debug\Tina.MySql.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.MySql\bin\Debug\Tina.MySql.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.MySql\bin\Debug\MySql.Data.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.MySql\bin\Debug\TINA-ORM.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.MySql\bin\Debug\TINA-ORM.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.MySql\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.MySql\obj\Debug\Tina.MySql.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.MySql\obj\Debug\Tina.MySql.pdb

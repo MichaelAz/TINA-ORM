@@ -1,0 +1,11 @@
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.YAML\bin\Release\Tina.Serialization.YAML.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.YAML\bin\Release\Tina.Serialization.YAML.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.YAML\bin\Release\TINA-ORM.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.YAML\bin\Release\YamlDotNet.Core.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.YAML\bin\Release\YamlDotNet.RepresentationModel.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.YAML\bin\Release\TINA-ORM.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.YAML\bin\Release\YamlDotNet.Core.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.YAML\bin\Release\YamlDotNet.RepresentationModel.pdb
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.YAML\obj\Release\ResolveAssemblyReference.cache
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.YAML\obj\Release\Tina.Serialization.YAML.dll
+C:\Users\zeev\Documents\GitHub\TINA-ORM\Tina.Serialization.YAML\obj\Release\Tina.Serialization.YAML.pdb

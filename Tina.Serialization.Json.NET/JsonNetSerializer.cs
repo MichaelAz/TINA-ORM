@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 
 namespace TinaORM.Serialization.Json.Net
 {
-    public class ServiceStackTextSerializer : ISerializer
+    public class JsonNetSerializer : ISerializer
     {
         public string Serialize(object o)
         {
